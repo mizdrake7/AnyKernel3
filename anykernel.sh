@@ -26,6 +26,7 @@ boot=/dev/block/by-name/boot;
 dtbo=/dev/block/by-name/dtbo;
 is_slot_device=0;
 ramdisk_compression=auto;
+keep_vbmeta_flag=auto;
 
 
 ## AnyKernel methods (DO NOT CHANGE)
