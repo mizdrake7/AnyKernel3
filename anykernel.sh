@@ -4,17 +4,18 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Meow Kernel for Redmi Note 8/8T
+kernel.string=Meow Kernel for Realme 5/5i/5s/5NFC
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=ginkgo
-device.name2=willow
-device.name3=
-device.name4=
-device.name5=
+device.name1=RMX1911
+device.name2=RMX1925
+device.name3=RMX1927
+device.name4=RMX2030
+device.name5=realme_trinket
+device.name6=r5x
 supported.versions=
 supported.patchlevels=
 '; } # end properties
