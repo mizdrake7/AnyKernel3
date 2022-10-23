@@ -21,8 +21,8 @@ supported.patchlevels=
 '; } # end properties
 
 # shell variables
-block=/dev/block/by-name/boot;
-block=/dev/block/by-name/dtbo;
+boot=/dev/block/by-name/boot;
+dtbo=/dev/block/by-name/dtbo;
 is_slot_device=0;
 ramdisk_compression=auto;
 
