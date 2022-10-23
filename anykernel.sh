@@ -22,6 +22,7 @@ supported.patchlevels=
 
 # shell variables
 block=/dev/block/by-name/boot;
+block=/dev/block/by-name/dtbo;
 is_slot_device=0;
 ramdisk_compression=auto;
 
