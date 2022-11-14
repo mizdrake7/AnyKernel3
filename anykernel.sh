@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Meow Kernel for Realme 5/5i/5s/5NFC
+kernel.string=ThunderBolt Kernel for Realme 5/5i/5s/5NFC
 do.devicecheck=1
 do.modules=0
 do.systemless=1
