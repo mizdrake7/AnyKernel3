@@ -4,18 +4,19 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ThunderBolt Kernel for Realme 5/5i/5s/5NFC
+kernel.string=Graveyard Kernel for Realme 5/5i/5s/5NFC by @MAdMiZ
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=RMX1911
-device.name2=RMX1925
-device.name3=RMX1927
-device.name4=RMX2030
-device.name5=realme_trinket
-device.name6=r5x
+device.name1=r5x
+device.name2=realme_trinket
+device.name3=RMX1911
+device.name4=RMX1925
+device.name5=RMX1927
+device.name6=RMX2030
+device.name7=RMX1919
 supported.versions=
 supported.patchlevels=
 '; } # end properties
